@@ -8,9 +8,9 @@ Built an interface for displaying these predictions in real time using Streamlit
 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-![issues](https://img.shields.io/github/issues/ashwinn-v/Photoshop-App)
-![forks](https://img.shields.io/github/forks/ashwinn-v/Photoshop-App)
-![stars](https://img.shields.io/github/stars/ashwinn-v/Photoshop-App)
+![issues](https://img.shields.io/github/issues/ashwinn-v/Credit-card-kafka)
+![forks](https://img.shields.io/github/forks/ashwinn-v/Credit-card-kafka)
+![stars](https://img.shields.io/github/stars/ashwinn-v/Credit-card-kafka)
 
 
 
